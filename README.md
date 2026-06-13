@@ -1,5 +1,10 @@
 # IR Object Counter System
 
+## Project Preview
+
+![Tinkercad Circuit](images/ir_object_counter.png)
+
+)
 ## Project Overview
 
 This project implements a real-time object counting system using Arduino. The system detects object-passing events and increments a counter whenever a new object is detected.
