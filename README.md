@@ -3,6 +3,11 @@
 ## Project Preview
 
 ![Tinkercad Circuit](./images/Ir%20Sensor%20Circuit.png)
+## Project Demonstration
+
+This project was successfully simulated in Tinkercad.
+The object detection signal was simulated using a push button due to IR sensor simulation limitations in Tinkercad.
+The counting logic was validated through real-time Serial Monitor output and LED indication.
 
 ## Project Overview
 
