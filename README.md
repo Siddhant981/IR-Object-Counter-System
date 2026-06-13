@@ -2,7 +2,7 @@
 
 ## Project Preview
 
-![Tinkercad Circuit](images/Ir Sensor Circuit.png)
+![Tinkercad Circuit](./images/Ir%20Sensor%20Circuit.png)
 
 ## Project Overview
 
